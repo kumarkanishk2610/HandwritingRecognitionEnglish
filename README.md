@@ -1,1 +1,1 @@
-# HandwritingRecognitionHinglish
+# HandwritingRecognitionEnglish
